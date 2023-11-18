@@ -1,4 +1,4 @@
 function sum(a, b) {
-    console.log("sum World", a+b);
+    console.log("sum earth", a+b);
 }
 main();
